@@ -74,6 +74,9 @@ table th, td{
 table td img{
     width: 30px;
 }
+.total{
+    padding: 10px;
+}
 
 .center{
     text-align: center;
